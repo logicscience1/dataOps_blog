@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dataOps | Academic</title>
+    <link>/categories/dataops/</link>
+      <atom:link href="/categories/dataops/index.xml" rel="self" type="application/rss+xml" />
+    <description>dataOps</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>dataOps</title>
+      <link>/categories/dataops/</link>
+    </image>
+    
+    <item>
+      <title>About Service Operations dataOps</title>
+      <link>/post/about-service-operations-dataops/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/about-service-operations-dataops/</guid>
+      <description>&lt;p&gt;Service Operations is a function that monitors and controls a variety of processes that can be purchased from the organisation. In this respect dataOps is the function that provides the reporting, analytics and tools to streamline and optimise these processes.&lt;/p&gt;
+&lt;p&gt;A number of popular tools and methodologies are integrated to augment dataOps such as &amp;lsquo;Problem Management&amp;rsquo; from ITILv4 and &amp;lsquo;Lean Six Sigma&amp;rsquo; from industrial process control. These make use of mathematical and statistical tools to monitor and measure. Leading on from this are opportunities for automation and prediction by exploiting devOps tools and machine learning to enhance feedback/control loops.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
