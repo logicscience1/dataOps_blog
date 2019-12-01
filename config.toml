@@ -1,0 +1,4 @@
+theme = "hugo-academic"
+baseURL = "http://www.logicscience.co.uk"
+languageCode = "en-gb"
+title = "LogicScience David Brand dataOps Story"
